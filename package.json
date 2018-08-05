@@ -1,0 +1,11 @@
+{
+  "name": "my_hero",
+  "version": "1.0.0",
+  "description": "This is a setup for the apprentices in order to get intouch with sourcetree, stash, console etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Lemm",
+  "license": "ISC"
+}
