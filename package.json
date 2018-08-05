@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a setup for the apprentices in order to get intouch with sourcetree, stash, console etc",
   "main": "index.js",
+  "repository": "ssh://git@stash.jvm.de:7999/~dennis.lemm/my_hero.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "webpack": "^4.16.4",
-    "webpack-cli": "^3.1.0"
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
   }
 }
